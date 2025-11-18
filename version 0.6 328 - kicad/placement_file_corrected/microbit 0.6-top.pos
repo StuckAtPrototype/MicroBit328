@@ -1,0 +1,20 @@
+### Module positions - created on 12/26/2015 3:46:12 PM ###
+### Printed by Pcbnew version kicad 4.0.0-rc2-stable
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+C1       0.1uF            C_0201              3.5560     5.9690     180.0    top
+C2       0.1uF            C_0201              3.5560     6.7310     180.0    top
+C3       0.1uF            C_0201             10.2870     5.4610      90.0    top
+C4       1uF              C_0402             15.1130     2.5400       0.0    top
+C5       1uF              C_0402             13.2080     5.5880     270.0    top
+C6       0.1uF            C_0201              2.9972     2.7940     180.0    top
+D1       LED              LED_0402           14.6050     8.2550       0.0    top
+D2       LED              LED_0402            4.4348     9.5453     180.0    top
+Q1       16MHz            CSTCE16M0V53-R0    11.4300     8.1280     180.0    top
+R1       2.7k             C_0201             16.5100     8.2550       0.0    top
+R2       10k              C_0201              3.5560     3.9370       0.0    top
+R3       2.7k             C_0201              2.7940     9.2710     270.0    top
+U1       ATMEGA328P-MMH-N Atmega328p_MMHR     6.9850     5.7150     180.0    top
+U2       LP2985-50DBVR    LP2985-50DBVR      15.6210     5.3340       0.0    top
+## End

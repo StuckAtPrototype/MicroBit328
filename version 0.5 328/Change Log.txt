@@ -1,0 +1,20 @@
+MicroBit 328
+
+version 0.5
+changes log - 
+- pulled up the reset pin
+- changed orientation and location of the DTR 0.1uF capacitor
+
+version 0.4
+changes log - 
+- changed position of the voltage regulator
+- changed position of the PWR LED 
+- changed vias
+- increased pin label sizes
+- changed order of the voltage marking
+
+Version 0.2
+changes log - 
+- added pads for a connector on the bottom of the board
+- changed DTR via 
+- added indication of PWM ~ pins

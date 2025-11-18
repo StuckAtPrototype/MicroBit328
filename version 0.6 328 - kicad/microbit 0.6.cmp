@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by Cvpcb (2014-12-04 BZR 5312)-product   date = 11/25/2015 11:44:10 PM
+
+BeginCmp
+TimeStamp = /565674C8;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /562457BA;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /562458B1;
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /56570B45;
+Reference = C4;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /56570F19;
+Reference = C5;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5656920C;
+Reference = C6;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /565681CD;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /56245DDA;
+Reference = IC1;
+ValeurCmp = ATMEGA328P-MMH-ND;
+IdModule  = QFN28:;
+EndCmp
+
+BeginCmp
+TimeStamp = /56569095;
+Reference = J1;
+ValeurCmp = MB_Header_12_A;
+IdModule  = custom:Header_50mil_12;
+EndCmp
+
+BeginCmp
+TimeStamp = /5656C93B;
+Reference = J2;
+ValeurCmp = MB_Header_12_B;
+IdModule  = custom:Header_50mil_12;
+EndCmp
+
+BeginCmp
+TimeStamp = /56246252;
+Reference = Q1;
+ValeurCmp = 16MHz;
+IdModule  = custom:CSTCE16M0V53-R0;
+EndCmp
+
+BeginCmp
+TimeStamp = /56568675;
+Reference = R1;
+ValeurCmp = 2.7k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /562452F8;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /565707A8;
+Reference = U1;
+ValeurCmp = LP2985-50DBVR;
+IdModule  = custom:LP2985-50DBVR;
+EndCmp
+
+EndListe
